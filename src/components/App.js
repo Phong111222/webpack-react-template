@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 const App = () => {
-  return <div>Webpack HRM Phong</div>;
+  console.log('phong');
+  return <div>Webpack HRM </div>;
 };
 export default App;
